@@ -1,6 +1,6 @@
 # vr-museum-cardboard
 
-VR Museum App project for Android phones. Made for Google Cardboard, built in Unity
+VR Museum App project for Android phones. Made for Google Cardboard, built in Unity.
 
 Technologies used:
 
